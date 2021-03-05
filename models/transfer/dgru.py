@@ -1,0 +1,136 @@
+#!/usr/bin/env python
+# ------------------------------------------------------------------------------------------------------%
+# Created by "Thieu Nguyen" at 09:32, 10/08/2020                                                        %
+#                                                                                                       %
+#       Email:      nguyenthieu2102@gmail.com                                                           %
+#       Homepage:   https://www.researchgate.net/profile/Thieu_Nguyen6                                  %
+#       Github:     https://github.com/thieunguyen5991                                                  %
+#-------------------------------------------------------------------------------------------------------%
+
+import lasagne
+import theano.tensor as T
+from theano import function as make_function
+from models.transfer.model_util import RootModel
+
+
+class Model(RootModel):
+
+    def __init__(self, char_cnt, label_cnt, word_cnt, char_emb_size=25, word_emb_size=100, epoch=10, learning_rate=1e-3,
+                 batch_size=10, test_batch_size=10, char_hidden_size=80, word_hidden_size=300, max_epoch=10, word_embedding_values=False,
+                 char_double_layer=False, word_double_layer=True, dropout=True, dropout_rate=0.5, tanh=True, tanh_size=150,
+                 joint=False, top_joint=True):
+        super().__init__(char_cnt, label_cnt, word_cnt, char_emb_size, word_emb_size, epoch, learning_rate, batch_size, test_batch_size,
+                         char_hidden_size, word_hidden_size, max_epoch)
+        self.use_crf = False
+        self.word_embedding_values = word_embedding_values
+        self.char_double_layer = char_double_layer
+        self.word_double_layer = word_double_layer
+        self.dropout = dropout
+        self.dropout_rate = dropout_rate
+
+        self.tanh = tanh
+        self.tanh_size = tanh_size
+
+        self.joint = joint
+        self.top_joint = top_joint
+
+    def build(self, x, y, m, wx, cm, embedding=None):
+        self.x, self.y, self.m, self.wx, self.cm = x, y, m, wx, cm
+        x_sym = T.itensor3('x')
+        y_sym = T.imatrix('y')
+        m_sym = T.matrix('mask')
+        wx_sym = T.imatrix('wx')
+        cm_sym = T.tensor3('cmask')
+
+        ### There are 4 components that is matter in this kind of models
+        ###     Word Embedding
+        ###     Char Neural Network --> GRU
+        ###     Word Neural Network --> GRU / CNN
+
+        ###  Create Char Embedding
+        model = lasagne.layers.InputLayer(shape=(None, self.x.shape[1], self.x.shape[2]), input_var=x_sym)
+        model = lasagne.layers.EmbeddingLayer(model, self.char_cnt, self.char_embedding_size)
+        model_char = lasagne.layers.ReshapeLayer(model, (-1, [2], [3]))
+
+        # Create Char Mask Embedding
+        model_char_mask = lasagne.layers.InputLayer(shape=(None, self.x.shape[1], self.x.shape[2]), input_var=cm_sym)
+        model_char_mask = lasagne.layers.ReshapeLayer(model_char_mask, (-1, [2]))
+
+        ### Create Char Neural Network
+        model_gru = lasagne.layers.GRULayer(model_char, self.char_hidden_size, mask_input=model_char_mask)
+        model_gru_2 = lasagne.layers.GRULayer(model_char, self.char_hidden_size, mask_input=model_char_mask, backwards=True)
+
+        if self.char_double_layer:
+            model_char_rnn = lasagne.layers.ConcatLayer([model_gru, model_gru_2], axis=2)
+            model_gru = lasagne.layers.GRULayer(model_char_rnn, self.char_hidden_size, mask_input=model_char_mask)
+            model_gru_2 = lasagne.layers.GRULayer(model_char_rnn, self.char_hidden_size, mask_input=model_char_mask, backwards=True)
+
+        model_gru = lasagne.layers.ReshapeLayer(model_gru, (-1, self.x.shape[1], [1], [2]))
+        model_gru = lasagne.layers.SliceLayer(model_gru, -1, axis=2)
+
+        model_gru_2 = lasagne.layers.ReshapeLayer(model_gru_2, (-1, self.x.shape[1], [1], [2]))
+        model_gru_2 = lasagne.layers.SliceLayer(model_gru_2, 0, axis=2)
+
+        ### Create Word Embedding
+        list_word_layers = lasagne.layers.InputLayer(shape=(None, self.x.shape[1]), input_var=wx_sym)
+        list_word_layers = lasagne.layers.EmbeddingLayer(list_word_layers, self.word_cnt, self.word_embedding_size, W=lasagne.init.Normal(std=1e-3))
+        if self.word_embedding_values:
+            list_word_layers.W.set_value(embedding)
+
+        layer_list = [list_word_layers]  # No char embedding
+        if self.tanh:
+            model_grus = lasagne.layers.ConcatLayer([model_gru, model_gru_2], axis=2)
+            model_grus = lasagne.layers.ReshapeLayer(model_grus, (-1, [2]))
+
+            model_gru = lasagne.layers.DenseLayer(model_grus, self.tanh_size, nonlinearity=lasagne.nonlinearities.tanh)
+            model_gru = lasagne.layers.ReshapeLayer(model_gru, (-1, self.x.shape[1], [1]))
+            self.shared_layer = model_gru
+            layer_list.append(model_gru)
+        elif self.joint:
+            model_grus = lasagne.layers.ConcatLayer([model_gru, model_gru_2], axis=2)
+            self.shared_layer = model_grus
+            layer_list.append(model_grus)
+            char_output = lasagne.layers.get_output(self.shared_layer)
+            self.char_fn = make_function([x_sym, cm_sym], char_output, on_unused_input='ignore')
+        else:
+            ## Word_Embedding + Char NN (Model_GRU, Model_GRU2) ==> Word NN
+            layer_list += [model_gru, model_gru_2]
+
+        if len(layer_list) > 1:
+            model = lasagne.layers.ConcatLayer(layer_list, axis=2)
+        else:
+            model = layer_list[0]
+
+        if not self.joint:
+            self.shared_layer = model
+
+        ### Word NN is GRU networks
+        model_mask = lasagne.layers.InputLayer(shape=(None, self.x.shape[1]), input_var=m_sym)
+        model_word_1 = lasagne.layers.GRULayer(model, self.word_hidden_size, mask_input=model_mask)
+        model = lasagne.layers.GRULayer(model, self.word_hidden_size, mask_input=model_mask, backwards=True)
+        if self.dropout:
+            model_word_1 = lasagne.layers.DropoutLayer(model_word_1, self.dropout_rate)
+            model = lasagne.layers.DropoutLayer(model, self.dropout_rate)
+        if self.word_double_layer:
+            model = lasagne.layers.ConcatLayer([model_word_1, model], axis=2)
+            model_word_1 = lasagne.layers.GRULayer(model, self.word_hidden_size, mask_input=model_mask)
+            model = lasagne.layers.GRULayer(model, self.word_hidden_size, mask_input=model_mask, backwards=True)
+            if self.dropout:
+                model_word_1 = lasagne.layers.DropoutLayer(model_word_1, self.dropout_rate)
+                model = lasagne.layers.DropoutLayer(model, self.dropout_rate)
+        layer_list = [model_word_1, model]
+        model = lasagne.layers.ConcatLayer(layer_list, axis=2)
+
+        if self.top_joint:  # Char Neural Network use for CRF
+            self.shared_layer = model
+
+        ### No CRF
+        model = lasagne.layers.ReshapeLayer(model, (-1, [2]))
+        model = lasagne.layers.DenseLayer(model, self.label_cnt, nonlinearity=lasagne.nonlinearities.softmax)
+        self.model = model
+        py = lasagne.layers.get_output(model, deterministic=True)
+        loss = T.dot(lasagne.objectives.categorical_crossentropy(py, y_sym.flatten()), m_sym.flatten())
+        params = lasagne.layers.get_all_params(model, trainable=True)
+        updates = lasagne.updates.adagrad(loss, params, learning_rate=self.learning_rate)
+        self.train_fn = make_function(inputs=[x_sym, y_sym, m_sym, wx_sym, cm_sym], outputs=loss, updates=updates, on_unused_input='ignore')
+        self.test_fn = make_function(inputs=[x_sym, m_sym, wx_sym, cm_sym], outputs=py, on_unused_input='ignore')

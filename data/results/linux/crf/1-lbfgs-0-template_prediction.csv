@@ -1,0 +1,1001 @@
+EventId,EventTemplate
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+d7779571ea1d3ab791a2365b6b0f76ef,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+b07dc99344a0c6f0ca0789caa4e05078,connection from 220.94.205.45 () at Sun
+ceb8684b2dedf381e11e97dba10852c4,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93 user=root
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+a74fbbe9bee66bc412f2d0fe58867038,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net user=root
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+1df0f891e753c430b982c70e9e7ebdc0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51 user=root
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+5da32e6b86ed6c18344b36352faff21b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20 user=test
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+454971b1b0c97f52b576ae86c8f9f41a,BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+cd385546010f8d7fd84bc3be6c9508b5,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"
+6e003e91fb664f3bfa5ce274f7a40f81,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253 user=root
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+d678ffa6cc387893d3a7176e58bd0832,CPU: L2 cache: 256K
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+ad4982d103e5196bf10455685e00fdb2,connection from 210.223.97.117 () at Wed
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+ea8a8d97b886f4d336718b1d3e1fcf37,PCI: Invalid ACPI-PCI IRQ routing table
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+91f7acbe0945601624a71d92d8eba76d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+d7763055dd9a68b4f9ff8e9e13172e8b,irqbalance startup succeeded
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+362b104dffba9506078ef083bd171126,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=root
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+959061e15543836f2d1b4f7cae2f2865,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249 user=guest
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+06555597b089de8e3ea72a3293f0c69e,BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+00c09a878d79d94eca108dd76481bd66,rpc.idmapd startup succeeded
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+20b03e5fbce3c59df0b73670b75e35ca,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217 user=root
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+359c7d9489fade5c9de498ac826e3067,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu user=root
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+bb605b26f8299ae99dd85f4b13b857e0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141 user=root
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+a64fa442be34a9bf7cf24ff9e5c6cd9d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128 user=root
+d7779571ea1d3ab791a2365b6b0f76ef,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+ae239afea959c54c6399a1163bd0b27b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+20b03e5fbce3c59df0b73670b75e35ca,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217 user=root
+53650236761ec8daf4346f976fb24a15,Intel machine check architecture supported.
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+585088cb8319c0058bd4948c66354bfd,creating device node '/udev/vcs2'
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+8c75c3f67bdf97a377dfd6303a0ecb6c,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+6f97e9d4c1c0aaf0ed913cef1580fcf6,restart.
+15ee56f0bc26c87e6166da84dabb08af,connection from 210.245.165.136 () at Sun
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+891bd5b47ff625c4f8882380a4b38397,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+59a5797a7c23a6f22d29f044f8c274d7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+91f7acbe0945601624a71d92d8eba76d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+adc372d21963e8661a3274abf482c25a,cupsd startup succeeded
+d9d7a0d7931c3c9c9d6a30396a0e95c2,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=193.110.106.11 user=root
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+6d79503580510b4837a0e5dbfd27edd2,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+00acc86726e077c49d98eb2551002b61,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180 user=root
+abd14c953765fa8c6d51e955ebbea8d0,klogd startup succeeded
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+362b104dffba9506078ef083bd171126,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+959061e15543836f2d1b4f7cae2f2865,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249 user=guest
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+92d153f1736e27d9a1ede3e4021f285a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+bb605b26f8299ae99dd85f4b13b857e0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141 user=root
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+085b9acf079b65daa1be36cd29036e55,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+3c5e98a73913d62948019357eebd20f9,Security Scaffold v1.0.0 initialized
+2a6baf5e91b502e395d8e911d936bdf3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl user=root
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+998298a77903f7e67fd2687f63211add,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+891bd5b47ff625c4f8882380a4b38397,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+2c065952fad9f12aa0d7b58c52462963,"CPU 0 irqstacks, hard=02345000 soft=02344000"
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+20d372d253d3c8282916d87939cf294b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+91fea51ad4376625cb2ea35fa1340012,syslogd startup succeeded
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+085b9acf079b65daa1be36cd29036e55,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+6f97e9d4c1c0aaf0ed913cef1580fcf6,restart.
+a9d64ca20676d75b8b2aa6d3884e5a70,Setting network parameters: succeeded
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+5da32e6b86ed6c18344b36352faff21b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20 user=test
+426f668c94971a824f14ed739f7204d2,SELinux: Starting in permissive mode
+6adaa5ce5dd009ab226a6e9ed2564126,removing device node '/udev/vcsa2'
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+2a6baf5e91b502e395d8e911d936bdf3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl user=root
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+362b104dffba9506078ef083bd171126,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=root
+6f97e9d4c1c0aaf0ed913cef1580fcf6,restart.
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+818ed9d9b2e6193dcb56d8d485b1e857,connection from 202.82.200.188 () at Thu
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+cf3833579e586d681e09fbbf4ffcd6b1,ACPI: Interpreter disabled.
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+d6afea4bb0c4b6d72a4348f5e87688b3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+0dcc71480b03e7625a7bcf0a2479da7b,"Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)"
+59a5797a7c23a6f22d29f044f8c274d7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+adc372d21963e8661a3274abf482c25a,cupsd startup succeeded
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+6adaa5ce5dd009ab226a6e9ed2564126,removing device node '/udev/vcsa2'
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+20d372d253d3c8282916d87939cf294b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+7cc97ca3077a0a5f912dee333338dace,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net user=root
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+959061e15543836f2d1b4f7cae2f2865,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249 user=guest
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+00a6dd1d83c8ff046660e52a3d17b5e5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+818ed9d9b2e6193dcb56d8d485b1e857,connection from 202.82.200.188 () at Thu
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+ae239afea959c54c6399a1163bd0b27b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+6f97e9d4c1c0aaf0ed913cef1580fcf6,restart.
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+b07dc99344a0c6f0ca0789caa4e05078,connection from 220.94.205.45 () at Sun
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+6e003e91fb664f3bfa5ce274f7a40f81,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253 user=root
+71a22689ee1c68d5fe3a37dc9460a977,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+3bd779269eb2a428fabedfe0c18cf0a8,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+ee259d466bde8075305685e366d11317,getpeername (ftpd): Transport endpoint is not connected
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+1f929e8a652464ad4387d93d1501d809,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.60.37.201
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+3d9d9deccc0113319d632c3d1c3dc344,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+93980a74d0cc0ccb8fa60de15c16d188,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101 user=root
+e05fcc239d6e73c3daee216aab379557,cupsd shutdown succeeded
+6f97e9d4c1c0aaf0ed913cef1580fcf6,restart.
+3bd779269eb2a428fabedfe0c18cf0a8,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+959061e15543836f2d1b4f7cae2f2865,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249 user=guest
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+998298a77903f7e67fd2687f63211add,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+d6afea4bb0c4b6d72a4348f5e87688b3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+a64fa442be34a9bf7cf24ff9e5c6cd9d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128 user=root
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+362b104dffba9506078ef083bd171126,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=root
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+20d372d253d3c8282916d87939cf294b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+8c75c3f67bdf97a377dfd6303a0ecb6c,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+6999d396679c7488b7f0f06a833d08b8,SELinux: Registering netfilter hooks
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+ef5351bcc63442c8c6fdc3c949b77b5c,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48 user=root
+ee259d466bde8075305685e366d11317,getpeername (ftpd): Transport endpoint is not connected
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+3c5b4adb940cdbd4e9975b22d18ed3c1,ACPI disabled because your bios is from 2000 and too old
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+e0661b3cabaa2558cfd49f8b7f32e607,"There is already a security framework initialized, register_security failed."
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+6d79503580510b4837a0e5dbfd27edd2,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+998298a77903f7e67fd2687f63211add,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+48bb7644ade5ec790ee146da5156cd4a,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+ae239afea959c54c6399a1163bd0b27b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ddd1814fb4df50f56cefd4a0ddf1878d,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+891bd5b47ff625c4f8882380a4b38397,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+ceb8684b2dedf381e11e97dba10852c4,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93 user=root
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+3be46d32ec36b8c473329e67b5e52d67,session closed for user root
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+f296cad2392d269f0de4eebba8cb6a2d,"Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)"
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+6e003e91fb664f3bfa5ce274f7a40f81,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253 user=root
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+20d372d253d3c8282916d87939cf294b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+5661f4eb325158fc4b345662f07fe08e,audit(1122475266.4294965305:0): initialized
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+92d153f1736e27d9a1ede3e4021f285a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+91f7acbe0945601624a71d92d8eba76d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+1df0f891e753c430b982c70e9e7ebdc0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51 user=root
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+4b7e6959f37a3bc82ff398d50068b7f1,audit: initializing netlink socket (disabled)
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+bb605b26f8299ae99dd85f4b13b857e0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141 user=root
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+ddd1814fb4df50f56cefd4a0ddf1878d,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+92d153f1736e27d9a1ede3e4021f285a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+db9d37a17b1dc15c03fe86fbc6f9de8a,sdpd v1.5 started
+ef5351bcc63442c8c6fdc3c949b77b5c,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48 user=root
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+362b104dffba9506078ef083bd171126,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=root
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+00a6dd1d83c8ff046660e52a3d17b5e5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+166408ba286378d73d1449e094d1d22e,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66 user=guest
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+80734f262dea7d9f8d6af6ad0236bf20,Initializing random number generator: succeeded
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+bb605b26f8299ae99dd85f4b13b857e0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141 user=root
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+bd62aabb0f0c27251eaec4f43db61381,BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+00acc86726e077c49d98eb2551002b61,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180 user=root
+00a6dd1d83c8ff046660e52a3d17b5e5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+d6afea4bb0c4b6d72a4348f5e87688b3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+3bd779269eb2a428fabedfe0c18cf0a8,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+20b03e5fbce3c59df0b73670b75e35ca,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+71a22689ee1c68d5fe3a37dc9460a977,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+bb605b26f8299ae99dd85f4b13b857e0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141 user=root
+ad4982d103e5196bf10455685e00fdb2,connection from 210.223.97.117 () at Wed
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+1d16b745787e693f78ec219edeaa09c0,*** info [mice.c(1766)]:
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+93980a74d0cc0ccb8fa60de15c16d188,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101 user=root
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+00a6dd1d83c8ff046660e52a3d17b5e5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root
+d6afea4bb0c4b6d72a4348f5e87688b3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+7e7cba5c3278b89bd1022f7c85d93a5c,BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+15ee56f0bc26c87e6166da84dabb08af,connection from 210.245.165.136 () at Sun
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+6f97e9d4c1c0aaf0ed913cef1580fcf6,restart.
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+20b03e5fbce3c59df0b73670b75e35ca,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217 user=root
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+166408ba286378d73d1449e094d1d22e,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66 user=guest
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+93980a74d0cc0ccb8fa60de15c16d188,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101 user=root
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+ddd1814fb4df50f56cefd4a0ddf1878d,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+ef5351bcc63442c8c6fdc3c949b77b5c,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48 user=root
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+3d9d9deccc0113319d632c3d1c3dc344,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri
+adc372d21963e8661a3274abf482c25a,cupsd startup succeeded
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+b6fd22c249b06480f5a45a4aab1b0136,Detected 731.219 MHz processor.
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+ee259d466bde8075305685e366d11317,getpeername (ftpd): Transport endpoint is not connected
+c80127b915c43642917995a7f4d5f2cf,imps2: Auto-detected intellimouse PS/2
+18dd943fed443c0c3b19f08bc039a5e1,usbcore: registered new driver hub
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+b07dc99344a0c6f0ca0789caa4e05078,connection from 220.94.205.45 () at Sun
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+359c7d9489fade5c9de498ac826e3067,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu user=root
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+a74fbbe9bee66bc412f2d0fe58867038,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net user=root
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+891bd5b47ff625c4f8882380a4b38397,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+172d92d2e5af7967df6a9db35bd85c35,kernel.core_uses_pid = 1
+ceb8684b2dedf381e11e97dba10852c4,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93 user=root
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+6d79503580510b4837a0e5dbfd27edd2,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+4c08f9df5e000b1f948ca9072b36a36e,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+a64fa442be34a9bf7cf24ff9e5c6cd9d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128 user=root
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+2a6baf5e91b502e395d8e911d936bdf3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl user=root
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+6d79503580510b4837a0e5dbfd27edd2,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+818ed9d9b2e6193dcb56d8d485b1e857,connection from 202.82.200.188 () at Thu
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+b311803e99b7d04fcfc2cb9797a6b0fa,usbcore: registered new driver usbfs
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+b07dc99344a0c6f0ca0789caa4e05078,connection from 220.94.205.45 () at Sun
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+91f7acbe0945601624a71d92d8eba76d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root
+20d372d253d3c8282916d87939cf294b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+a74fbbe9bee66bc412f2d0fe58867038,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+91f7acbe0945601624a71d92d8eba76d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root
+48a493b0843377d8924fe9e9808b5224,Capability LSM initialized
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+6e003e91fb664f3bfa5ce274f7a40f81,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253 user=root
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+a74fbbe9bee66bc412f2d0fe58867038,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net user=root
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+e2234786f14dded9eec900983c07d423,ROOT LOGIN ON tty2
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+a64fa442be34a9bf7cf24ff9e5c6cd9d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128 user=root
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+00a6dd1d83c8ff046660e52a3d17b5e5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root
+a74fbbe9bee66bc412f2d0fe58867038,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net user=root
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+d7779571ea1d3ab791a2365b6b0f76ef,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+fe3c862d65394bccafe7964652371b9a,Initializing CPU#0
+b07dc99344a0c6f0ca0789caa4e05078,connection from 220.94.205.45 () at Sun
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+998298a77903f7e67fd2687f63211add,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+d7779571ea1d3ab791a2365b6b0f76ef,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+13c15734fcd3e50f7fad4c927299afbb,connection from 218.146.61.230 () at Sun
+8e7cf52ee2d81cceb204886c2c8015bf,connection from 172.181.208.156 () at Tue
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+72efd968d1e87a1c7ef520cc50b97aec,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun
+e27b23bcfa8733196d39941def64aaf5,Linux agpgart interface v0.100 (c) Dave Jones
+18330ef69bb76fa1172720501341fe17,Linux Plug and Play Support v0.97 (c) Adam Belay
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+6d79503580510b4837a0e5dbfd27edd2,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+c859bc91c1781aa5cb8b70d2ff4b4d4a,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+a64fa442be34a9bf7cf24ff9e5c6cd9d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128 user=root
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+8d27593c5c0d74f1fe68083d8eb2aaaa,connection from 222.33.90.199 () at Mon
+15ee56f0bc26c87e6166da84dabb08af,connection from 210.245.165.136 () at Sun
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+92d153f1736e27d9a1ede3e4021f285a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+158c34d8dd657761c18125bbbe6195ab,SELinux: Initializing.
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+a74fbbe9bee66bc412f2d0fe58867038,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net user=root
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+359c7d9489fade5c9de498ac826e3067,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu user=root
+98908df95725ccf7a72792efdceb0288,"Total HugeTLB memory allocated, 0"
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+1df0f891e753c430b982c70e9e7ebdc0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+891bd5b47ff625c4f8882380a4b38397,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root
+ef5351bcc63442c8c6fdc3c949b77b5c,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48 user=root
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+ceb8684b2dedf381e11e97dba10852c4,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93 user=root
+965c11ce336683b749619faab1ddd055,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+ddd1814fb4df50f56cefd4a0ddf1878d,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+1df0f891e753c430b982c70e9e7ebdc0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+f43817655ba819db123011f7e84be856,connection from 208.62.55.75 () at Wed
+48bb7644ade5ec790ee146da5156cd4a,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+965c11ce336683b749619faab1ddd055,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29 user=root
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+05b0cf4828d921b1968078d0e0f70bea,connection from 217.187.83.139 () at Sun
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+891bd5b47ff625c4f8882380a4b38397,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root
+ba90813425cd3855e1be9ec9591f68b1,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+48462f84b4fd2dec71788259f323f938,pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+de6cd9cfa27b25c8a017a0017252b760,Built 1 zonelists
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+b1962822bafac752595e146608d2a343,connection from 206.47.209.10 () at Mon
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+6b643c987e2ad6c8c7068a17d874ab8f,126MB LOWMEM available.
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+a5b547df834081d7f1b7e96e54b069fd,Console: colour VGA+ 80x25
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+9197c6ce4bf9062462d2f763163c1bed,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+607eef3d3704c94e7c17be1ee322d951,PCI: Using configuration type 1
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+00a6dd1d83c8ff046660e52a3d17b5e5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+59a5797a7c23a6f22d29f044f8c274d7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+24a00ae7b92482e72e353825eb506016,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87 user=root
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+6f6a192cbdfdccf7bb8a542bc0a8e5fb,session opened for user root by LOGIN(uid=0)
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+2a6baf5e91b502e395d8e911d936bdf3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl user=root
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+54ad6cfbece0933855df2d2f20882aa5,connection from 218.69.108.57 () at Fri
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+551663abe1426cdb083fb9feffd1bcc3,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+4ed240a758d684b21706f026c569ef0f,ACPI: Subsystem revision 20040326
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+2e3d6c0c15233bb632d3b18cfbe04b3e,isapnp: No Plug & Play device found
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+29249ae3fa38c1b6fe832e90fea7b4e3,You can enable it with acpi=force
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+8919af76232048f46d5d0002f5949148,connection from 211.167.68.59 () at Sat
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+e05fcc239d6e73c3daee216aab379557,cupsd shutdown succeeded
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+166408ba286378d73d1449e094d1d22e,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66 user=guest
+0f6e1ec933c3520f44630372fa526ee3,connection from 211.107.232.1 () at Sun
+5b4c39d880352a92186aed3d3035e147,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root
+20b03e5fbce3c59df0b73670b75e35ca,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217 user=root
+67e6196c5d86d3bb173af8c5fa3fd2d7,Intel machine check reporting enabled on CPU#0.
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+55a58a0111e245e849040f3163298ba9,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun
+593b13c1762d2bf1640ba99ffb516c54,connection from 84.102.20.2 () at Sun
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+91b7ca3089cd87d3031b17118a01194d,session closed for user test
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+48bb7644ade5ec790ee146da5156cd4a,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri
+3d9d9deccc0113319d632c3d1c3dc344,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+6b198e458bc5e2149ca7dfab6a4db3a5,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+ad4982d103e5196bf10455685e00fdb2,connection from 210.223.97.117 () at Wed
+af7742a772542b11c3f9dec67f267b86,connection from 202.82.200.188 () at Fri
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+59a5797a7c23a6f22d29f044f8c274d7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+a5cf0894a481a5ed518511256e85cf55,connection from 210.245.165.136 () at Wed
+9f478e04d8a4d95a01dc42ffcd02f912,connection from 221.4.102.93 () at Thu
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+085b9acf079b65daa1be36cd29036e55,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+b5012ab188c22a7efdeefa0138567b51,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+6788879d34eee07ad07f5504ac48b59c,connection from 81.171.220.226 () at Sat
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+b2f9c7a5402e5c7cedebd20644ecb138,session opened for user test by (uid=509)
+b6a3b5b1d44dbd29b24cd046e20e0abe,connection from 210.118.170.95 () at Sat
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+359c7d9489fade5c9de498ac826e3067,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu user=root
+15ee56f0bc26c87e6166da84dabb08af,connection from 210.245.165.136 () at Sun
+ddd1814fb4df50f56cefd4a0ddf1878d,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat
+a82d5ea671473420e05528b9cc0e47ae,notify question section contains no SOA
+3d9d9deccc0113319d632c3d1c3dc344,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri
+eb3fea62618c565fb6724c3ff9b9a2f1,connection from 211.107.232.1 () at Fri
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+a4253f91c6d028d7f9ce20964e825994,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+ae239afea959c54c6399a1163bd0b27b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+3bd779269eb2a428fabedfe0c18cf0a8,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+65c9b2b2bf23bd80432c9224630c26c8,connection from 212.65.68.82 () at Sat
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+2a6baf5e91b502e395d8e911d936bdf3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl user=root
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+942786fd7f1ea0365498e598242d2e76,connection from 211.42.188.206 () at Fri
+08a3a0016d6f4e12cc3e2758594aef9d,session opened for user news by (uid=0)
+2c67c28f12d6d6b5268746519e1a7f1f,connection from 207.30.238.8 (host8.topspot.net) at Sun
+e169fbcb02515dfa3ce340e1ace570fb,connection from 211.57.88.250 () at Sat
+115d0538a9417b7b86a7531be7215f17,session opened for user cyrus by (uid=0)
+fe6f65a77ad4986e6caa89207aeb4282,session closed for user cyrus
+174e24c30c3926982b64664edc00e179,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+3d9d9deccc0113319d632c3d1c3dc344,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri
+2ec797556aa481f5b6a4baa6e57674b8,Kernel command line: ro root=LABEL=/ rhgb quiet
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+b5887441560b3f6fe082ccaeb1560298,connection from 217.187.83.50 () at Mon
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+5508ff78652fd139c811d44bfc11d361,connection from 211.72.151.162 () at Mon
+9d7d028e834ae578fdfae008ff34b19f,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun
+f0e507f56ee606a409e672fd9c787149,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun
+ee4428b12ed4a2463c53ce56d8372cd1,connection from 61.74.96.178 () at Wed
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+b780997e36676401fe3cab7dad34f1ca,check pass; user unknown
+965c11ce336683b749619faab1ddd055,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29 user=root
+921a012ea34044a3eddd4ab820bfebe2,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun
+77db97f8879589ed521567b8d125e7a7,connection from 211.72.151.162 () at Wed
+a757c0c2e4c0e4f6c25c75d2eae234c0,ALERT exited abnormally with [1]
+67b8435c8b1e04e7fe76c7d5b95e1575,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116 user=root
+26fa374a6715a031ef60a9a46e477526,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210 user=root
+e223d1d663e979417589b6e251fcfb6d,connection from 211.72.2.106 () at Tue
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
+b07dc99344a0c6f0ca0789caa4e05078,connection from 220.94.205.45 () at Sun
+70fd00b76fd09074cada7f713f08a455,session closed for user news
+3bd779269eb2a428fabedfe0c18cf0a8,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+87cdaf7ed52eb9f63053a36233fe3d37,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110 user=root
+dea5ca5648093a909f665f98a4bcd177,Kerberos authentication failed
+acb87c3779ce0f91100e8d118a7153fd,connection from 67.95.49.172 () at Fri
+75d470d3135ae08d249ead93b5ba8f5a,connection from 216.12.111.241 () at Thu
+f88839cdeda42929355edc0caf82c183,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114 user=root
