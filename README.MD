@@ -1,6 +1,15 @@
-## Template Generation with Deep Transfer Neural Network 
-
+## Template Generation with Deep Transfer Neural Network
 This repository provides codes and scripts for the experiments of log template generation with deep transfer learning
+
+If you publish material based on LogDTL, then, help others to obtain the same data sets and replicate your experiments
+by citing LogDTL original paper. Here is the suggested format for referring to LogDTL:
+
+```code 
+T. Nguyen, S. Kobayashi, K. Fukuda. "LogDTL: Network Log Template Generation with Deep Transfer Learning". 6 pages.
+AnNet 2021. Bordeaux, France. 2021.
+```
+
+
 
 ### Dataset 
 ```code 
