@@ -7,12 +7,73 @@
 #       Github:     https://github.com/thieunguyen5991                                                  %
 #-------------------------------------------------------------------------------------------------------%
 
+import re
+
 from pandas import read_csv
 from numpy import array, zeros, int32, float32
 from config import Config
 
 
+WILDCARD_REGEX = re.compile(re.escape(Config.SPE_CHAR))
+WHITESPACE_REGEX = re.compile(r"\s+")
+
+
 # =========================== MAKE TRAIN AND TEST FILE =======================================
+
+def template_to_regex(tpl):
+    # Generate regular expression corresponding to given template
+    # Not using Pattern.sub because we would like to apply re.escape for descriptive part only
+    buf = [r"^"]
+    tmp_tpl = tpl[:]
+    while len(tmp_tpl) > 0:
+        matchobj = WILDCARD_REGEX.search(tmp_tpl)
+        if matchobj:
+            buf.append(re.escape(tmp_tpl[:matchobj.start()]))
+            buf.append(r"(.*?)")  # shortest match
+            tmp_tpl = tmp_tpl[matchobj.end():]
+        else:
+            buf.append(re.escape(tmp_tpl))
+            break
+    buf.append(r"$")
+    return re.compile("".join(buf))
+
+
+def reformat_template(tpl, message):
+    # match variable parts of the message with given template
+    pattern = template_to_regex(tpl)
+    matchobj = pattern.match(message)
+    assert matchobj is not None
+
+    # get boolean index of variable part in the message
+    variable_index = array([False] * len(message))
+    n_variables = len(matchobj.groups())
+    for i in range(n_variables):
+        # i+1 because matchobject group index starts from 1
+        variable_index[matchobj.start(i+1):matchobj.end(i+1)] = True
+
+    # get chr index of segmented words of the message
+    segmented_word_span = []  # tuple of (start, end) corresponding to chr index of words
+    start_point = 0
+    while start_point < len(message):
+        matchobj = WHITESPACE_REGEX.search(message[start_point:])
+        if matchobj:
+            segmented_word_span.append((start_point, start_point + matchobj.start()))
+            start_point = start_point + matchobj.end()
+        else:
+            segmented_word_span.append((start_point, len(message)))
+            break
+
+    # generate new template that can be consistently segmented with whitespaces
+    new_tpl = []
+    for wstart, wend in segmented_word_span:
+        if True in variable_index[wstart:wend]:
+            # a word including variable part -> replace with one wildcard
+            new_tpl.append(Config.SPE_CHAR)
+        else:
+            # a word without variable part -> as is
+            new_tpl.append(message[wstart:wend])
+    return " ".join(new_tpl)
+
 
 def function_mapper(line):
     words = line.split()
@@ -27,7 +88,15 @@ def function_mapper(line):
 
 def make_train_and_test_datafile(input_path, output_paths, test_size=0.3):
     df = read_csv(input_path)
-    df[Config.FILE_HEADER_EVENT_STR] = df[Config.FILE_HEADER_EVENT_TEMPLATE].map(function_mapper)
+    for row_idx, row in df.iterrows():
+        tpl = row.loc[Config.FILE_HEADER_EVENT_TEMPLATE]
+        line = row.loc[Config.FILE_HEADER_CONTENT]
+        new_tpl = reformat_template(tpl, line)
+        labels = function_mapper(new_tpl)
+        assert len(line.split()) == len(new_tpl.split())
+        assert len(new_tpl.split()) == len(labels.split())
+        df.loc[row_idx, Config.FILE_HEADER_EVENT_TEMPLATE] = new_tpl
+        df.loc[row_idx, Config.FILE_HEADER_EVENT_STR] = labels
     df = df[[Config.FILE_HEADER_CONTENT, Config.FILE_HEADER_EVENT_ID, Config.FILE_HEADER_EVENT_TEMPLATE, Config.FILE_HEADER_EVENT_STR]]
     df.to_csv(output_paths[0], index=False)  # Content, EventId, EventTemplate, EventStr
 
@@ -152,7 +221,7 @@ class Vectorizer:
         :param iter_n: Number of iterations (epochs) over the corpus.
         :param sg_flag: Training algorithm: 1 for skip-gram; otherwise CBOW.
         """
-        self.model = Word2Vec(word_list, size=size_n, min_count=min_count, window=window_n, iter=iter_n, sg=sg_flag)
+        self.model = Word2Vec(word_list, vector_size=size_n, min_count=min_count, window=window_n, epochs=iter_n, sg=sg_flag)
 
     def vectorized(self, word):
         return self.model.__dict__['wv'][word]
